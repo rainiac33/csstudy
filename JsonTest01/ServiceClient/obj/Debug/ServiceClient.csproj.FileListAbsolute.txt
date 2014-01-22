@@ -1,0 +1,7 @@
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\bin\Debug\ServiceClient.dll
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\bin\Debug\ServiceClient.pdb
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\bin\Debug\Newtonsoft.Json.dll
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\bin\Debug\Newtonsoft.Json.xml
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\obj\Debug\ServiceClient.dll
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\ServiceClient\obj\Debug\ServiceClient.pdb

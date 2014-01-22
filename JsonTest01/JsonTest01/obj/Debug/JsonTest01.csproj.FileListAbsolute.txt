@@ -1,0 +1,14 @@
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\JsonTest01.exe.config
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\JsonTest01.exe
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\JsonTest01.pdb
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\Newtonsoft.Json.dll
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\Newtonsoft.Json.xml
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.csprojResolveAssemblyReference.cache
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Properties.Resources.resources
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.csproj.GenerateResource.Cache
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.pdb
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Form1.resources
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe.licenses
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\ServiceClient.dll
+F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\ServiceClient.pdb
