@@ -1,0 +1,8 @@
+F:\GitHub\csstudy\JsonTest01\UI\bin\Debug\UI.dll
+F:\GitHub\csstudy\JsonTest01\UI\bin\Debug\UI.pdb
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.Form1.resources
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.dll.licenses
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.dll
+F:\GitHub\csstudy\JsonTest01\UI\obj\Debug\UI.pdb
