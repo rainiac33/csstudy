@@ -36,30 +36,50 @@ namespace Lib
             set { _binding.Data = value; }
         }
 
+        public DataTable Copy()
+        {
+            return _binding.Data.Copy();
+        }
+
+        public DataTable Clone()
+        {
+            return _binding.Data.Clone();
+        }
+
         private void AddCol(string colName, Type type = null)
         {
-            if (type == null)
-                _binding.Data.Columns.Add(colName);
-            else
-                _binding.Data.Columns.Add(colName, type);
+            try
+            {
+                if (type == null)
+                    _binding.Data.Columns.Add(colName);
+                else
+                    _binding.Data.Columns.Add(colName, type);
+            }
+            catch { }
         }
 
         public void Add(Control control, string PropertyName, string FieldName, Type type = null)
         {
             AddCol(FieldName, type);
-            _binding.Add(control, PropertyName, FieldName);
+
+            if(control != null)
+                _binding.Add(control, PropertyName, FieldName);
         }
 
         public void Add(Control control, string FieldName, Type type = null)
         {
             AddCol(FieldName, type);
-            _binding.Add(control, FieldName);
+
+            if (control != null)
+                _binding.Add(control, FieldName);
         }
 
         public void AddTag(Control control, string FieldName, Type type = null)
         {
             AddCol(FieldName, type);
-            _binding.AddTag(control, FieldName);
+
+            if (control != null)
+                _binding.AddTag(control, FieldName);
         }
 
         public void EndEdit()

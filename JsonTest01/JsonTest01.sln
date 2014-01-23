@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTest01", "JsonTest01\Js
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceClient", "ServiceClient\ServiceClient.csproj", "{EDC7BEAD-96F1-481A-A94B-1794F00AFA3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{1DF57BF0-17D1-4558-8596-3B9EC3D15C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{EDC7BEAD-96F1-481A-A94B-1794F00AFA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC7BEAD-96F1-481A-A94B-1794F00AFA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC7BEAD-96F1-481A-A94B-1794F00AFA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF57BF0-17D1-4558-8596-3B9EC3D15C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF57BF0-17D1-4558-8596-3B9EC3D15C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF57BF0-17D1-4558-8596-3B9EC3D15C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF57BF0-17D1-4558-8596-3B9EC3D15C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

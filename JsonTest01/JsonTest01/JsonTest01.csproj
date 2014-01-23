@@ -50,6 +50,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dlgGetListTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgGetListTest.Designer.cs">
+      <DependentUpon>dlgGetListTest.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +64,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="dlgGetListTest.resx">
+      <DependentUpon>dlgGetListTest.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +100,10 @@
     <ProjectReference Include="..\ServiceClient\ServiceClient.csproj">
       <Project>{edc7bead-96f1-481a-a94b-1794f00afa3b}</Project>
       <Name>ServiceClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UI\UI.csproj">
+      <Project>{1df57bf0-17d1-4558-8596-3b9ec3d15c74}</Project>
+      <Name>UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -26,3 +26,6 @@ F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Form1.resources
 F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Properties.Resources.resources
 F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.csproj.GenerateResource.Cache
 F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe.licenses
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.dlgGetListTest.resources
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\UI.dll
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\UI.pdb
