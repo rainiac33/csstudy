@@ -21,31 +21,11 @@ namespace JsonTest01
         }
 
         private BindingData _binding = new BindingData();
-        //private DataBinding<DataTable> _binding = new DataBinding<DataTable>();
 
         private void InitBinding()
         {
-            //var dt = new DataTable();
-
-            //var dr = dt.NewRow();
-            //dt.Rows.Add(dr);
-
-            //dt.Columns.Add("Name");
-            //dt.Columns.Add("Age");
-            //dt.Columns.Add("Job");
-
-            //_binding.Data = dt;
-
-            //var dr = _binding.Data.NewRow();
-            //_binding.Data.Rows.Add(dr);
-
-            //_binding.Data.Columns.Add("Name");
             _binding.Add(txtCol1, "Name");
-
-            //_binding.Data.Columns.Add("Age");
-            _binding.Add(txtCol2, "Age");
-
-            //_binding.Data.Columns.Add("Job");
+            _binding.Add(txtCol2, "Age", typeof(int)); // Type 지정가능
             _binding.Add(txtCol3, "Job");
         }
 

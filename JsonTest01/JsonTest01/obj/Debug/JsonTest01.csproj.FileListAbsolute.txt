@@ -12,3 +12,17 @@ F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonT
 F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe.licenses
 F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\ServiceClient.dll
 F:\30.사내프로젝트\2014\SolutionTest\JsonTest01\JsonTest01\bin\Debug\ServiceClient.pdb
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\JsonTest01.exe.config
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.pdb
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\JsonTest01.exe
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\JsonTest01.pdb
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\ServiceClient.dll
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\ServiceClient.pdb
+F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.csprojResolveAssemblyReference.cache
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Form1.resources
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.Properties.Resources.resources
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.csproj.GenerateResource.Cache
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe.licenses
