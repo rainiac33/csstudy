@@ -29,3 +29,4 @@ F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.exe.licenses
 F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.dlgGetListTest.resources
 F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\UI.dll
 F:\GitHub\csstudy\JsonTest01\JsonTest01\bin\Debug\UI.pdb
+F:\GitHub\csstudy\JsonTest01\JsonTest01\obj\Debug\JsonTest01.dlgNew.resources

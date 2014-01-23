@@ -25,6 +25,11 @@ namespace JsonTest01
             new dlgGetListTest().ShowDialog(this);
         }
 
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            new dlgNew().ShowDialog(this);
+        }
+
         //private BindingData _binding = new BindingData();
 
         //private void InitBinding()

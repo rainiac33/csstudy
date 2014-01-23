@@ -82,6 +82,16 @@ namespace Lib
                 _binding.AddTag(control, FieldName);
         }
 
+        public void SetValue(string FieldName, object value)
+        {
+            try
+            {
+                _binding.Data.Rows[0][FieldName] = value;
+            }
+            catch { }
+        }
+
+
         public void EndEdit()
         {
             _binding.EndEdit();
