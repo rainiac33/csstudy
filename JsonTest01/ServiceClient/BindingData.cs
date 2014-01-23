@@ -36,26 +36,29 @@ namespace Lib
             set { _binding.Data = value; }
         }
 
-        private void AddCol(string colName)
+        private void AddCol(string colName, Type type = null)
         {
-            _binding.Data.Columns.Add(colName);
+            if (type == null)
+                _binding.Data.Columns.Add(colName);
+            else
+                _binding.Data.Columns.Add(colName, type);
         }
 
-        public void Add(Control control, string PropertyName, string FieldName)
+        public void Add(Control control, string PropertyName, string FieldName, Type type = null)
         {
-            AddCol(FieldName);
+            AddCol(FieldName, type);
             _binding.Add(control, PropertyName, FieldName);
         }
 
-        public void Add(Control control, string FieldName)
+        public void Add(Control control, string FieldName, Type type = null)
         {
-            AddCol(FieldName);
+            AddCol(FieldName, type);
             _binding.Add(control, FieldName);
         }
 
-        public void AddTag(Control control, string FieldName)
+        public void AddTag(Control control, string FieldName, Type type = null)
         {
-            AddCol(FieldName);
+            AddCol(FieldName, type);
             _binding.AddTag(control, FieldName);
         }
 
